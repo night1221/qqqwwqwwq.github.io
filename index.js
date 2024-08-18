@@ -15,3 +15,10 @@ function updatePlayerCount() {
 
 // Викликаємо функцію для оновлення рахунку при завантаженні сторінки
 window.onload = updatePlayerCount;
+
+if(playerCount==6){
+    console.log('qwqwe')
+} else{
+    console.log('not')
+}
+    
